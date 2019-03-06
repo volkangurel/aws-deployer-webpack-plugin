@@ -1,0 +1,48 @@
+{
+  "name": "aws-deployer-webpack-plugin",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "description": "Deploy a single page application to AWS, storing static assets on S3 and serving them through CloudFront",
+  "main": "index.js",
+  "types": "typings.d.ts",
+  "bugs": "https://github.com/volkangurel/aws-deployer-webpack-plugin/issues",
+  "homepage": "https://github.com/volkangurel/aws-deployer-webpack-plugin",
+  "repository": "https://github.com/volkangurel/aws-deployer-webpack-plugin.git",
+  "dependencies": {
+    "lodash": "4.17.11",
+    "minimist": "1.2.0",
+    "pretty-error": "2.1.1",
+    "tapable": "1.1.1",
+    "util.promisify": "1.0.0"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "8.10.19",
+    "@types/lodash": "4.14.121",
+    "@types/minimist": "1.2.0",
+    "@types/node": "11.9.4",
+    "@types/tapable": "1.0.4",
+    "@types/util.promisify": "1.0.0",
+    "@types/webpack": "4.4.24",
+    "aws-sdk": "2.404.0",
+    "eslint": "5.11.1",
+    "eslint-config-pretty-standard": "2.0.0",
+    "eslint-plugin-import": "2.14.0",
+    "eslint-plugin-prettier": "3.0.1",
+    "eslint-plugin-typescript": "0.14.0",
+    "prettier": "1.16.4",
+    "typescript": "3.3.3",
+    "typescript-eslint-parser": "22.0.0",
+    "webpack": "4.29.5"
+  },
+  "peerDependencies": {
+    "webpack": "^4.0.0"
+  },
+  "keywords": [
+    "aws-deployer-webpack-plugin",
+    "webpack",
+    "plugin",
+    "aws",
+    "deploy",
+    "serverless"
+  ]
+}
