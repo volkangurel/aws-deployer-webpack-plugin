@@ -1,5 +1,6 @@
 [![npm][npm]][npm-url]
 [![node][node]][node-url]
+[![webpack][webpack]][webpack-url]
 
 <div align="center">
   <img width="200" height="200" src="https://worldvectorlogo.com/logos/aws-logo.svg">
@@ -15,3 +16,6 @@
 
 [node]: https://img.shields.io/node/v/aws-deployer-webpack-plugin.svg
 [node-url]: https://nodejs.org
+
+[webpack]: https://img.shields.io/npm/dependency-version/aws-deployer-webpack-plugin/peer/webpack.svg
+[webpack-url]: https://webpack.js.org/concepts/plugins/
