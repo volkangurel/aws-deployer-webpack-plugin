@@ -37,6 +37,9 @@
   "peerDependencies": {
     "webpack": "^4.0.0"
   },
+  "engines": {
+    "node": ">=10.0"
+  },
   "keywords": [
     "aws-deployer-webpack-plugin",
     "webpack",
