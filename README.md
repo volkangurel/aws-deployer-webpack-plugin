@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/volkangurel/aws-deployer-webpack-plugin.svg)](https://greenkeeper.io/)
+
 [![npm][npm]][npm-url]
 [![node][node]][node-url]
 [![webpack][webpack]][webpack-url]
