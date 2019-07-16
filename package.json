@@ -9,7 +9,7 @@
   "homepage": "https://github.com/volkangurel/aws-deployer-webpack-plugin",
   "repository": "https://github.com/volkangurel/aws-deployer-webpack-plugin.git",
   "dependencies": {
-    "lodash": "4.17.12",
+    "lodash": "4.17.13",
     "minimist": "1.2.0",
     "pretty-error": "2.1.1",
     "tapable": "1.1.3",
